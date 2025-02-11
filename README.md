@@ -20,11 +20,15 @@ This project combines data engineering and advanced analytics to derive actionab
 3. **Premium Distribution**: Concentrated between $0-$500 for 6-month periods.
 
 ## Visualizations
-- Vehicle Value Histogram]:
+### Vehicle Value Histogram:
   ![image](https://github.com/user-attachments/assets/3fa93de5-aff5-43b8-928a-9e341c5319b9)
 
-- [Annual Miles Driven Distribution](link-to-image)
-- [6-Month Premium Amount Analysis](link-to-image)
+### Annual Miles Driven Distribution:
+    ![image](https://github.com/user-attachments/assets/f7406b35-af8b-44f3-85a7-7e64a36caa59)
+
+### 6-Month Premium Amount Analysis
+    ![image](https://github.com/user-attachments/assets/cafdb8f0-4ac8-4bd2-879c-d0bd5f0ad8a3)
+
 
 ## Future Enhancements
 - Implement machine learning models for predictive analytics.
